@@ -1,0 +1,1 @@
+﻿#define DEBOUNCE 25
